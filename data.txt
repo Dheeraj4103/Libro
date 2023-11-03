@@ -1,0 +1,28 @@
+
+Sr. No	Accn#	Author	Title	Copies	Value			
+1	007581	Abbey, M.	Oracle 9i: a beginner's guide	1	350.00			
+2	016569	Abeck, S.	Network management: know it all	1	425.00			
+3	016816	Abeck, S.	Network management: know it all	1	425.00			
+4	017418	Abeck, S.	Network management: know it all	1	425.00			
+5	S00116	Abel, P.	IBM PC assembly language and programming, Ed.5	1	195.00			
+6	S00312	Abel, P.	IBM PC assembly language and programming, Ed.5	1	195.00			
+7	002698	Abel, P.	IBM PC assembly language and programming, Ed. 3	1	110.00			
+8	G04221	Abel, P.	IBM PC assembly language and programming, Ed. 3	1	0.00			
+9	G04264	Abel, P.	IBM PC assembly language and programming, Ed. 3	1	0.00			
+10	G02316	Abel, P.	IBM PC assembly language and programming, Ed. 3	1	0.00			
+11	G02656	Abel, P.	IBM PC assembly language and programming, Ed. 3	1	0.00			
+12	G02276	Abhyankar, A.K.	Computer graphics using C	1	0.00			
+13	013362	Aboelela, E.	Network simulation experiments manual, Ed.2	1	175.00			
+14	008656	Abramson, I.	Oracle database 10g: a beginner's guide	1	395.00			
+15	016549	Adamson, C.	Star schema: the complete reference	1	595.00			
+16	016774	Adamson, C.	Star schema: the complete reference	1	595.00			
+17	020201	Adloph, S.	Pattern for effective use cases	1	250.00			
+18	007931	Adolph, S.	Pattern for effective use cases	1	250.00			
+19	020207	Adolph, S.	Pattern for effective use cases	1	250.00			
+20	G03485	Agarwal. U.	Computer graphics	1	0.00			
+21	G03507	Agarwal. U.	Computer graphics	1	0.00			
+22	G03506	Agarwal. U.	Textbook of web technology	1	0.00			
+23	000238	Aggarwal, V.B.	Work book in Basic	1	20.00			
+24	G03362	Agor, R.	Textbook of elements of computer science	1	0.00			
+25	015154	Agoston, M.K.	Computer graphics and geometric modeling: implementation and algorithms	1	795.00			
+26	011004	Agrawal, D.P.	Introduction to wireless and mobile systems, Ed.2	1	295.00			

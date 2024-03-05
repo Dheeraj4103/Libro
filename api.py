@@ -16,6 +16,7 @@ def get_recommendations():
 
     # Convert the DataFrame to a JSON-serializable format
     recommendations_json = recommendations.to_dict(orient='records')
+    print(recommendations_json)
 
     return jsonify(recommendations_json)
 

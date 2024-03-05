@@ -1,0 +1,18 @@
+.book-description{
+
+    margin: 5% 10% 10% 10%;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    background-color: #99f39c;
+    padding: 5%;
+    border-radius: 5%;
+}
+.book-description .book-title{
+    display: flex;
+    
+}
+.book-description .book-author{
+    display: flex;
+}

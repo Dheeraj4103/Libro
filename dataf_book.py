@@ -69,9 +69,9 @@ df = pd.read_excel('books.xlsx')
 book_details = []
 
 # Iterate through each book title in the Excel file
-for title, copies in zip(df['Title'], df['Copies']):
+for title, issued in zip(df['Title'], df["Issued"]):
     book_info = get_book_info(title)
-    book_info['copies'] = copies
+    book_info["Issued"] = issued
     book_details.append(book_info)
 
 # Create a DataFrame from the book details
